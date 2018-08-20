@@ -1,2 +1,2 @@
 # todoAPP
-todoAPP VS Code Core 2.1
+todoAPP VS Code Core 2.1 using EF InMemory
